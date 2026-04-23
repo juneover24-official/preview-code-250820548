@@ -1,32 +1,8 @@
 {
   "qq_number": "250820548",
   "group_number": "620355466",
-  "updated_at": "2026-04-22T16:19:15.059614",
+  "updated_at": "2026-04-23T15:52:35.384930",
   "skins": [
-    {
-      "name": "允の幻想日记",
-      "file": "PT1允の幻想日记.bds",
-      "thumb": "PT1允の幻想日记.bds_py_26_light_thumb.png",
-      "full": "PT1允の幻想日记.bds_py_26_light.png"
-    },
-    {
-      "name": "允の梨花古津",
-      "file": "PT1允の梨花古津.bds",
-      "thumb": "PT1允の梨花古津.bds_py_26_light_thumb.png",
-      "full": "PT1允の梨花古津.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "PT1允の猫猫日.bds",
-      "thumb": "PT1允の猫猫日.bds_py_26_light_thumb.png",
-      "full": "PT1允の猫猫日.bds_py_26_light.png"
-    },
-    {
-      "name": "PT1允の抹茶奶",
-      "file": "PT1允の抹茶奶.bds",
-      "thumb": "PT1允の抹茶奶.bds_py_26_light_thumb.png",
-      "full": "PT1允の抹茶奶.bds_py_26_light.png"
-    },
     {
       "name": "乐妍贴纸底包1",
       "file": "PT1允の抹茶奶-融2.bdi",
@@ -80,6 +56,30 @@
       "file": "PT1允の幻想日记-融.bdi",
       "thumb": "PT1允の幻想日记-融.bdi_py_26_light_thumb.png",
       "full": "PT1允の幻想日记-融.bdi_py_26_light.png"
+    },
+    {
+      "name": "允の幻想日记",
+      "file": "PT1允の幻想日记.bds",
+      "thumb": "PT1允の幻想日记.bds_py_26_light_thumb.png",
+      "full": "PT1允の幻想日记.bds_py_26_light.png"
+    },
+    {
+      "name": "允の梨花古津",
+      "file": "PT1允の梨花古津.bds",
+      "thumb": "PT1允の梨花古津.bds_py_26_light_thumb.png",
+      "full": "PT1允の梨花古津.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "PT1允の猫猫日.bds",
+      "thumb": "PT1允の猫猫日.bds_py_26_light_thumb.png",
+      "full": "PT1允の猫猫日.bds_py_26_light.png"
+    },
+    {
+      "name": "PT1允の抹茶奶",
+      "file": "PT1允の抹茶奶.bds",
+      "thumb": "PT1允の抹茶奶.bds_py_26_light_thumb.png",
+      "full": "PT1允の抹茶奶.bds_py_26_light.png"
     }
   ]
 }

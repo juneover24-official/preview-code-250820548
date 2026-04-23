@@ -1,92 +1,8 @@
 {
   "qq_number": "250820548",
   "group_number": "698771749",
-  "updated_at": "2026-04-22T16:19:14.623882",
+  "updated_at": "2026-04-23T15:52:35.114840",
   "skins": [
-    {
-      "name": "允の宙",
-      "file": "允の宙2.bds",
-      "thumb": "允の宙2.bds_py_26_light_thumb.png",
-      "full": "允の宙2.bds_py_26_light.png"
-    },
-    {
-      "name": "允",
-      "file": "允の兔心心.bds",
-      "thumb": "允の兔心心.bds_py_26_light_thumb.png",
-      "full": "允の兔心心.bds_py_26_light.png"
-    },
-    {
-      "name": "允",
-      "file": "七期允の玉桂狗不理包子.bds",
-      "thumb": "七期允の玉桂狗不理包子.bds_py_26_light_thumb.png",
-      "full": "七期允の玉桂狗不理包子.bds_py_26_light.png"
-    },
-    {
-      "name": "允の宙",
-      "file": "允の宙.bds",
-      "thumb": "允の宙.bds_py_26_light_thumb.png",
-      "full": "允の宙.bds_py_26_light.png"
-    },
-    {
-      "name": "允の新世界.bdi",
-      "file": "允の新世界.bds",
-      "thumb": "允の新世界.bds_py_26_light_thumb.png",
-      "full": "允の新世界.bds_py_26_light.png"
-    },
-    {
-      "name": "允の鱼",
-      "file": "允の鱼.bds",
-      "thumb": "允の鱼.bds_py_26_light_thumb.png",
-      "full": "允の鱼.bds_py_26_light.png"
-    },
-    {
-      "name": "允のckw乐园",
-      "file": "PT1允のckw乐园.bds",
-      "thumb": "PT1允のckw乐园.bds_py_26_light_thumb.png",
-      "full": "PT1允のckw乐园.bds_py_26_light.png"
-    },
-    {
-      "name": "允の7森莫蛋糕",
-      "file": "允の7森莫蛋糕.bds",
-      "thumb": "允の7森莫蛋糕.bds_py_26_light_thumb.png",
-      "full": "允の7森莫蛋糕.bds_py_26_light.png"
-    },
-    {
-      "name": "允の永恒的缘",
-      "file": "允の永恒的缘.bds",
-      "thumb": "允の永恒的缘.bds_py_26_light_thumb.png",
-      "full": "允の永恒的缘.bds_py_26_light.png"
-    },
-    {
-      "name": "允の天鹅湖",
-      "file": "SP1允の天鹅湖.bds",
-      "thumb": "SP1允の天鹅湖.bds_py_26_light_thumb.png",
-      "full": "SP1允の天鹅湖.bds_py_26_light.png"
-    },
-    {
-      "name": "允",
-      "file": "允の旧世纪的圣诞2.bds",
-      "thumb": "允の旧世纪的圣诞2.bds_py_26_light_thumb.png",
-      "full": "允の旧世纪的圣诞2.bds_py_26_light.png"
-    },
-    {
-      "name": "允",
-      "file": "允の修道院.bds",
-      "thumb": "允の修道院.bds_py_26_light_thumb.png",
-      "full": "允の修道院.bds_py_26_light.png"
-    },
-    {
-      "name": "允の开门本兔来惹",
-      "file": "PT1允の开门本兔来惹.bds",
-      "thumb": "PT1允の开门本兔来惹.bds_py_26_light_thumb.png",
-      "full": "PT1允の开门本兔来惹.bds_py_26_light.png"
-    },
-    {
-      "name": "允の睡梦轻轻",
-      "file": "允の睡梦轻轻.bds",
-      "thumb": "允の睡梦轻轻.bds_py_26_light_thumb.png",
-      "full": "允の睡梦轻轻.bds_py_26_light.png"
-    },
     {
       "name": "乐妍贴纸底包1",
       "file": "允の7森莫蛋糕-融合底.bdi",
@@ -254,6 +170,90 @@
       "file": "七期允の玉桂狗不理包子-融合底.bdi",
       "thumb": "七期允の玉桂狗不理包子-融合底.bdi_py_26_light_thumb.png",
       "full": "七期允の玉桂狗不理包子-融合底.bdi_py_26_light.png"
+    },
+    {
+      "name": "允の宙",
+      "file": "允の宙2.bds",
+      "thumb": "允の宙2.bds_py_26_light_thumb.png",
+      "full": "允の宙2.bds_py_26_light.png"
+    },
+    {
+      "name": "允",
+      "file": "允の兔心心.bds",
+      "thumb": "允の兔心心.bds_py_26_light_thumb.png",
+      "full": "允の兔心心.bds_py_26_light.png"
+    },
+    {
+      "name": "允",
+      "file": "七期允の玉桂狗不理包子.bds",
+      "thumb": "七期允の玉桂狗不理包子.bds_py_26_light_thumb.png",
+      "full": "七期允の玉桂狗不理包子.bds_py_26_light.png"
+    },
+    {
+      "name": "允の宙",
+      "file": "允の宙.bds",
+      "thumb": "允の宙.bds_py_26_light_thumb.png",
+      "full": "允の宙.bds_py_26_light.png"
+    },
+    {
+      "name": "允の新世界.bdi",
+      "file": "允の新世界.bds",
+      "thumb": "允の新世界.bds_py_26_light_thumb.png",
+      "full": "允の新世界.bds_py_26_light.png"
+    },
+    {
+      "name": "允の鱼",
+      "file": "允の鱼.bds",
+      "thumb": "允の鱼.bds_py_26_light_thumb.png",
+      "full": "允の鱼.bds_py_26_light.png"
+    },
+    {
+      "name": "允のckw乐园",
+      "file": "PT1允のckw乐园.bds",
+      "thumb": "PT1允のckw乐园.bds_py_26_light_thumb.png",
+      "full": "PT1允のckw乐园.bds_py_26_light.png"
+    },
+    {
+      "name": "允の7森莫蛋糕",
+      "file": "允の7森莫蛋糕.bds",
+      "thumb": "允の7森莫蛋糕.bds_py_26_light_thumb.png",
+      "full": "允の7森莫蛋糕.bds_py_26_light.png"
+    },
+    {
+      "name": "允の永恒的缘",
+      "file": "允の永恒的缘.bds",
+      "thumb": "允の永恒的缘.bds_py_26_light_thumb.png",
+      "full": "允の永恒的缘.bds_py_26_light.png"
+    },
+    {
+      "name": "允の天鹅湖",
+      "file": "SP1允の天鹅湖.bds",
+      "thumb": "SP1允の天鹅湖.bds_py_26_light_thumb.png",
+      "full": "SP1允の天鹅湖.bds_py_26_light.png"
+    },
+    {
+      "name": "允",
+      "file": "允の旧世纪的圣诞2.bds",
+      "thumb": "允の旧世纪的圣诞2.bds_py_26_light_thumb.png",
+      "full": "允の旧世纪的圣诞2.bds_py_26_light.png"
+    },
+    {
+      "name": "允",
+      "file": "允の修道院.bds",
+      "thumb": "允の修道院.bds_py_26_light_thumb.png",
+      "full": "允の修道院.bds_py_26_light.png"
+    },
+    {
+      "name": "允の开门本兔来惹",
+      "file": "PT1允の开门本兔来惹.bds",
+      "thumb": "PT1允の开门本兔来惹.bds_py_26_light_thumb.png",
+      "full": "PT1允の开门本兔来惹.bds_py_26_light.png"
+    },
+    {
+      "name": "允の睡梦轻轻",
+      "file": "允の睡梦轻轻.bds",
+      "thumb": "允の睡梦轻轻.bds_py_26_light_thumb.png",
+      "full": "允の睡梦轻轻.bds_py_26_light.png"
     }
   ]
 }

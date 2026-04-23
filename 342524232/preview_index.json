@@ -1,176 +1,8 @@
 {
   "qq_number": "250820548",
   "group_number": "342524232",
-  "updated_at": "2026-04-22T16:19:15.076251",
+  "updated_at": "2026-04-23T15:52:35.619612",
   "skins": [
-    {
-      "name": "允17",
-      "file": "允17.bds",
-      "thumb": "允17.bds_py_26_light_thumb.png",
-      "full": "允17.bds_py_26_light.png"
-    },
-    {
-      "name": "允05",
-      "file": "允05.bds",
-      "thumb": "允05.bds_py_26_light_thumb.png",
-      "full": "允05.bds_py_26_light.png"
-    },
-    {
-      "name": "允",
-      "file": "允08.bds",
-      "thumb": "允08.bds_py_26_light_thumb.png",
-      "full": "允08.bds_py_26_light.png"
-    },
-    {
-      "name": "允",
-      "file": "允08漂.bds",
-      "thumb": "允08漂.bds_py_26_light_thumb.png",
-      "full": "允08漂.bds_py_26_light.png"
-    },
-    {
-      "name": "允13",
-      "file": "允13二.bds",
-      "thumb": "允13二.bds_py_26_light_thumb.png",
-      "full": "允13二.bds_py_26_light.png"
-    },
-    {
-      "name": "允19",
-      "file": "允19.bds",
-      "thumb": "允19.bds_py_26_light_thumb.png",
-      "full": "允19.bds_py_26_light.png"
-    },
-    {
-      "name": "允15",
-      "file": "允15.bds",
-      "thumb": "允15.bds_py_26_light_thumb.png",
-      "full": "允15.bds_py_26_light.png"
-    },
-    {
-      "name": "允の永会01",
-      "file": "允01.bds",
-      "thumb": "允01.bds_py_26_default_thumb.png",
-      "full": "允01.bds_py_26_default.png"
-    },
-    {
-      "name": "允18",
-      "file": "允18.bds",
-      "thumb": "允18.bds_py_26_light_thumb.png",
-      "full": "允18.bds_py_26_light.png"
-    },
-    {
-      "name": "允11",
-      "file": "允11.bds",
-      "thumb": "允11.bds_py_26_light_thumb.png",
-      "full": "允11.bds_py_26_light.png"
-    },
-    {
-      "name": "允20",
-      "file": "允20.bds",
-      "thumb": "允20.bds_py_26_light_thumb.png",
-      "full": "允20.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "允の绿果果.bds",
-      "thumb": "允の绿果果.bds_py_26_light_thumb.png",
-      "full": "允の绿果果.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "允06.bds",
-      "thumb": "允06.bds_py_26_light_thumb.png",
-      "full": "允06.bds_py_26_light.png"
-    },
-    {
-      "name": "允の菟丝花",
-      "file": "允の菟丝花.bds",
-      "thumb": "允の菟丝花.bds_py_26_light_thumb.png",
-      "full": "允の菟丝花.bds_py_26_light.png"
-    },
-    {
-      "name": "允16",
-      "file": "允16.bds",
-      "thumb": "允16.bds_py_26_light_thumb.png",
-      "full": "允16.bds_py_26_light.png"
-    },
-    {
-      "name": "允",
-      "file": "允10.bds",
-      "thumb": "允10.bds_py_26_light_thumb.png",
-      "full": "允10.bds_py_26_light.png"
-    },
-    {
-      "name": "允03.bdi",
-      "file": "允03.bds",
-      "thumb": "允03.bds_py_26_light_thumb.png",
-      "full": "允03.bds_py_26_light.png"
-    },
-    {
-      "name": "允の永会02苹",
-      "file": "允02.bds",
-      "thumb": "允02.bds_py_26_light_thumb.png",
-      "full": "允02.bds_py_26_light.png"
-    },
-    {
-      "name": "允12",
-      "file": "允12.bds",
-      "thumb": "允12.bds_py_26_light_thumb.png",
-      "full": "允12.bds_py_26_light.png"
-    },
-    {
-      "name": "允14",
-      "file": "允14.bds",
-      "thumb": "允14.bds_py_26_light_thumb.png",
-      "full": "允14.bds_py_26_light.png"
-    },
-    {
-      "name": "允の永会02苹",
-      "file": "允02二.bds",
-      "thumb": "允02二.bds_py_26_light_thumb.png",
-      "full": "允02二.bds_py_26_light.png"
-    },
-    {
-      "name": "允04",
-      "file": "允04.bds",
-      "thumb": "允04.bds_py_26_default_thumb.png",
-      "full": "允04.bds_py_26_default.png"
-    },
-    {
-      "name": "允05",
-      "file": "允05二.bds",
-      "thumb": "允05二.bds_py_26_light_thumb.png",
-      "full": "允05二.bds_py_26_light.png"
-    },
-    {
-      "name": "允の永会01",
-      "file": "允01二.bds",
-      "thumb": "允01二.bds_py_26_default_thumb.png",
-      "full": "允01二.bds_py_26_default.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "允07.bds",
-      "thumb": "允07.bds_py_26_default_thumb.png",
-      "full": "允07.bds_py_26_default.png"
-    },
-    {
-      "name": "允",
-      "file": "允09.bds",
-      "thumb": "允09.bds_py_26_light_thumb.png",
-      "full": "允09.bds_py_26_light.png"
-    },
-    {
-      "name": "允21",
-      "file": "允21.bds",
-      "thumb": "允21.bds_py_26_light_thumb.png",
-      "full": "允21.bds_py_26_light.png"
-    },
-    {
-      "name": "允13",
-      "file": "允13.bds",
-      "thumb": "允13.bds_py_26_light_thumb.png",
-      "full": "允13.bds_py_26_light.png"
-    },
     {
       "name": "乐妍贴纸底包1",
       "file": "允08.bdi",
@@ -512,6 +344,174 @@
       "file": "允21融.bdi",
       "thumb": "允21融.bdi_py_26_light_thumb.png",
       "full": "允21融.bdi_py_26_light.png"
+    },
+    {
+      "name": "允17",
+      "file": "允17.bds",
+      "thumb": "允17.bds_py_26_light_thumb.png",
+      "full": "允17.bds_py_26_light.png"
+    },
+    {
+      "name": "允05",
+      "file": "允05.bds",
+      "thumb": "允05.bds_py_26_light_thumb.png",
+      "full": "允05.bds_py_26_light.png"
+    },
+    {
+      "name": "允",
+      "file": "允08.bds",
+      "thumb": "允08.bds_py_26_light_thumb.png",
+      "full": "允08.bds_py_26_light.png"
+    },
+    {
+      "name": "允",
+      "file": "允08漂.bds",
+      "thumb": "允08漂.bds_py_26_light_thumb.png",
+      "full": "允08漂.bds_py_26_light.png"
+    },
+    {
+      "name": "允13",
+      "file": "允13二.bds",
+      "thumb": "允13二.bds_py_26_light_thumb.png",
+      "full": "允13二.bds_py_26_light.png"
+    },
+    {
+      "name": "允19",
+      "file": "允19.bds",
+      "thumb": "允19.bds_py_26_light_thumb.png",
+      "full": "允19.bds_py_26_light.png"
+    },
+    {
+      "name": "允15",
+      "file": "允15.bds",
+      "thumb": "允15.bds_py_26_light_thumb.png",
+      "full": "允15.bds_py_26_light.png"
+    },
+    {
+      "name": "允の永会01",
+      "file": "允01.bds",
+      "thumb": "允01.bds_py_26_default_thumb.png",
+      "full": "允01.bds_py_26_default.png"
+    },
+    {
+      "name": "允18",
+      "file": "允18.bds",
+      "thumb": "允18.bds_py_26_light_thumb.png",
+      "full": "允18.bds_py_26_light.png"
+    },
+    {
+      "name": "允11",
+      "file": "允11.bds",
+      "thumb": "允11.bds_py_26_light_thumb.png",
+      "full": "允11.bds_py_26_light.png"
+    },
+    {
+      "name": "允20",
+      "file": "允20.bds",
+      "thumb": "允20.bds_py_26_light_thumb.png",
+      "full": "允20.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "允の绿果果.bds",
+      "thumb": "允の绿果果.bds_py_26_light_thumb.png",
+      "full": "允の绿果果.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "允06.bds",
+      "thumb": "允06.bds_py_26_light_thumb.png",
+      "full": "允06.bds_py_26_light.png"
+    },
+    {
+      "name": "允の菟丝花",
+      "file": "允の菟丝花.bds",
+      "thumb": "允の菟丝花.bds_py_26_light_thumb.png",
+      "full": "允の菟丝花.bds_py_26_light.png"
+    },
+    {
+      "name": "允16",
+      "file": "允16.bds",
+      "thumb": "允16.bds_py_26_light_thumb.png",
+      "full": "允16.bds_py_26_light.png"
+    },
+    {
+      "name": "允",
+      "file": "允10.bds",
+      "thumb": "允10.bds_py_26_light_thumb.png",
+      "full": "允10.bds_py_26_light.png"
+    },
+    {
+      "name": "允03.bdi",
+      "file": "允03.bds",
+      "thumb": "允03.bds_py_26_light_thumb.png",
+      "full": "允03.bds_py_26_light.png"
+    },
+    {
+      "name": "允の永会02苹",
+      "file": "允02.bds",
+      "thumb": "允02.bds_py_26_light_thumb.png",
+      "full": "允02.bds_py_26_light.png"
+    },
+    {
+      "name": "允12",
+      "file": "允12.bds",
+      "thumb": "允12.bds_py_26_light_thumb.png",
+      "full": "允12.bds_py_26_light.png"
+    },
+    {
+      "name": "允14",
+      "file": "允14.bds",
+      "thumb": "允14.bds_py_26_light_thumb.png",
+      "full": "允14.bds_py_26_light.png"
+    },
+    {
+      "name": "允の永会02苹",
+      "file": "允02二.bds",
+      "thumb": "允02二.bds_py_26_light_thumb.png",
+      "full": "允02二.bds_py_26_light.png"
+    },
+    {
+      "name": "允04",
+      "file": "允04.bds",
+      "thumb": "允04.bds_py_26_default_thumb.png",
+      "full": "允04.bds_py_26_default.png"
+    },
+    {
+      "name": "允05",
+      "file": "允05二.bds",
+      "thumb": "允05二.bds_py_26_light_thumb.png",
+      "full": "允05二.bds_py_26_light.png"
+    },
+    {
+      "name": "允の永会01",
+      "file": "允01二.bds",
+      "thumb": "允01二.bds_py_26_default_thumb.png",
+      "full": "允01二.bds_py_26_default.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "允07.bds",
+      "thumb": "允07.bds_py_26_default_thumb.png",
+      "full": "允07.bds_py_26_default.png"
+    },
+    {
+      "name": "允",
+      "file": "允09.bds",
+      "thumb": "允09.bds_py_26_light_thumb.png",
+      "full": "允09.bds_py_26_light.png"
+    },
+    {
+      "name": "允21",
+      "file": "允21.bds",
+      "thumb": "允21.bds_py_26_light_thumb.png",
+      "full": "允21.bds_py_26_light.png"
+    },
+    {
+      "name": "允13",
+      "file": "允13.bds",
+      "thumb": "允13.bds_py_26_light_thumb.png",
+      "full": "允13.bds_py_26_light.png"
     }
   ]
 }

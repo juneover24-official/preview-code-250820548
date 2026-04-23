@@ -1,56 +1,8 @@
 {
   "qq_number": "250820548",
   "group_number": "715086492",
-  "updated_at": "2026-04-22T16:19:15.053606",
+  "updated_at": "2026-04-23T15:52:35.402955",
   "skins": [
-    {
-      "name": "乐妍底包",
-      "file": "七期允のこいひと恋人.bds",
-      "thumb": "七期允のこいひと恋人.bds_py_26_light_thumb.png",
-      "full": "七期允のこいひと恋人.bds_py_26_light.png"
-    },
-    {
-      "name": "允",
-      "file": "七期允の雨の日.bds",
-      "thumb": "七期允の雨の日.bds_py_26_light_thumb.png",
-      "full": "七期允の雨の日.bds_py_26_light.png"
-    },
-    {
-      "name": "允",
-      "file": "七期允の雨の日-漂.bds",
-      "thumb": "七期允の雨の日-漂.bds_py_26_light_thumb.png",
-      "full": "七期允の雨の日-漂.bds_py_26_light.png"
-    },
-    {
-      "name": "允",
-      "file": "七期允の片思い.bds",
-      "thumb": "七期允の片思い.bds_py_26_light_thumb.png",
-      "full": "七期允の片思い.bds_py_26_light.png"
-    },
-    {
-      "name": "允",
-      "file": "七期允の子猫ステッカー.bds",
-      "thumb": "七期允の子猫ステッカー.bds_py_26_light_thumb.png",
-      "full": "七期允の子猫ステッカー.bds_py_26_light.png"
-    },
-    {
-      "name": "允",
-      "file": "七期允のハワのにちしょう.bds",
-      "thumb": "七期允のハワのにちしょう.bds_py_26_light_thumb.png",
-      "full": "七期允のハワのにちしょう.bds_py_26_light.png"
-    },
-    {
-      "name": "允",
-      "file": "七期允の片思い2.bds",
-      "thumb": "七期允の片思い2.bds_py_26_light_thumb.png",
-      "full": "七期允の片思い2.bds_py_26_light.png"
-    },
-    {
-      "name": "允",
-      "file": "七期允のライラック丁香味.bds",
-      "thumb": "七期允のライラック丁香味.bds_py_26_light_thumb.png",
-      "full": "七期允のライラック丁香味.bds_py_26_light.png"
-    },
     {
       "name": "乐妍贴纸底包1",
       "file": "七期允の片思い-融合底.bdi",
@@ -146,6 +98,54 @@
       "file": "七期允のハワのにちしょう.bdi",
       "thumb": "七期允のハワのにちしょう.bdi_py_26_light_thumb.png",
       "full": "七期允のハワのにちしょう.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "七期允のこいひと恋人.bds",
+      "thumb": "七期允のこいひと恋人.bds_py_26_light_thumb.png",
+      "full": "七期允のこいひと恋人.bds_py_26_light.png"
+    },
+    {
+      "name": "允",
+      "file": "七期允の雨の日.bds",
+      "thumb": "七期允の雨の日.bds_py_26_light_thumb.png",
+      "full": "七期允の雨の日.bds_py_26_light.png"
+    },
+    {
+      "name": "允",
+      "file": "七期允の雨の日-漂.bds",
+      "thumb": "七期允の雨の日-漂.bds_py_26_light_thumb.png",
+      "full": "七期允の雨の日-漂.bds_py_26_light.png"
+    },
+    {
+      "name": "允",
+      "file": "七期允の片思い.bds",
+      "thumb": "七期允の片思い.bds_py_26_light_thumb.png",
+      "full": "七期允の片思い.bds_py_26_light.png"
+    },
+    {
+      "name": "允",
+      "file": "七期允の子猫ステッカー.bds",
+      "thumb": "七期允の子猫ステッカー.bds_py_26_light_thumb.png",
+      "full": "七期允の子猫ステッカー.bds_py_26_light.png"
+    },
+    {
+      "name": "允",
+      "file": "七期允のハワのにちしょう.bds",
+      "thumb": "七期允のハワのにちしょう.bds_py_26_light_thumb.png",
+      "full": "七期允のハワのにちしょう.bds_py_26_light.png"
+    },
+    {
+      "name": "允",
+      "file": "七期允の片思い2.bds",
+      "thumb": "七期允の片思い2.bds_py_26_light_thumb.png",
+      "full": "七期允の片思い2.bds_py_26_light.png"
+    },
+    {
+      "name": "允",
+      "file": "七期允のライラック丁香味.bds",
+      "thumb": "七期允のライラック丁香味.bds_py_26_light_thumb.png",
+      "full": "七期允のライラック丁香味.bds_py_26_light.png"
     }
   ]
 }
