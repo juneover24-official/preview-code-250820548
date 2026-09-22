@@ -1,7 +1,7 @@
 {
   "qq_number": "250820548",
   "group_number": "342524232",
-  "updated_at": "2026-09-22T12:58:50+00:00",
+  "updated_at": "2026-09-22T13:02:09+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -753,6 +753,13 @@
       "thumb": "允31_融合.bdi_py_26_light_thumb.png",
       "full": "允31_融合.bdi_py_26_light_thumb.png",
       "file_id": "0d084b1495886850ed4f38e1ce0d3dde"
+    },
+    {
+      "name": "允32",
+      "file": "允32二.bdi",
+      "thumb": "允32二.bdi_py_26_light_thumb.png",
+      "full": "允32二.bdi_py_26_light_thumb.png",
+      "file_id": "0eee3fca3f4763e66d0cff2475c71139"
     }
   ]
 }
